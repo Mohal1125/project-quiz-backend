@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "628611a542e33a304d4070f1"
+  },
+  "question": "React is mainly used for building ___.",
+  "answer": [
+    "Database",
+    "Connectivity",
+    "User interface"
+  ],
+  "correct": 3
+},{
+  "_id": {
+    "$oid": "6286152542e33a304d4070f4"
+  },
+  "question": "What is ReactJS?",
+  "answer": [
+    "Library for building interaction interfaces",
+    "User-interface framework",
+    "Server side Framework"
+  ],
+  "correct": 1
+},{
+  "_id": {
+    "$oid": "6286236c42e33a304d4070f5"
+  },
+  "question": "Choose the right answer about JSX.",
+  "answer": [
+    "JSX provides expressiveness of JavaScript along with HTML, like template syntax",
+    "JSX is a syntax notation for JavaScript XML",
+    "All of the above options"
+  ],
+  "correct": 3
+},{
+  "_id": {
+    "$oid": "628623e542e33a304d4070f6"
+  },
+  "question": "How to write an HTML Comment ?",
+  "answer": [
+    "<!-- This is an HTML comment -->",
+    "/* This is an HTML comment */",
+    "// This is an HTML comment"
+  ],
+  "correct": 1
+},{
+  "_id": {
+    "$oid": "628624d342e33a304d4070f7"
+  },
+  "question": "The arbitrary inputs of components are called ___.",
+  "answer": [
+    "Props",
+    "Elements",
+    "Keys"
+  ],
+  "correct": 1
+},{
+  "_id": {
+    "$oid": "628625ab42e33a304d4070f8"
+  },
+  "question": "Inside which element do you put JavaScript?",
+  "answer": [
+    "<var> ",
+    "<section> ",
+    "<script> "
+  ],
+  "correct": 3
+},{
+  "_id": {
+    "$oid": "6286263242e33a304d4070f9"
+  },
+  "question": "Which one of the following is correct?",
+  "answer": [
+    "i =+ 1;",
+    "i += 1;",
+    "i = i++1;"
+  ],
+  "correct": 2
+},{
+  "_id": {
+    "$oid": "628626be42e33a304d4070fa"
+  },
+  "question": "How do you get cookies in JavaScript?",
+  "answer": [
+    "document.cookie",
+    "location.cookies",
+    "document.cookies"
+  ],
+  "correct": 1
+},{
+  "_id": {
+    "$oid": "6286276942e33a304d4070fc"
+  },
+  "question": "How do you open a new window with JavaScript?",
+  "answer": [
+    "open(new window());",
+    "window.new(...);",
+    "window.open(...);"
+  ],
+  "correct": 3
+},{
+  "_id": {
+    "$oid": "628628eb42e33a304d4070fd"
+  },
+  "question": "What is called the functions with no return value?",
+  "answer": [
+    "Procedures",
+    "Method",
+    "Dynamic function"
+  ],
+  "correct": 1
+}]
