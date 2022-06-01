@@ -28,7 +28,7 @@ app.use("/questions", async (req, res) => {
 
 mongoose.connect(process.env.MONGO_CONNECTION).then(() => {
     app.listen(port, () => {
-      console.log(`Quiz ${port}`);
+      console.log(`Quiz App ${port}`);
    });
   });
 
